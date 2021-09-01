@@ -8,7 +8,7 @@
     "elasticsearch": "~10.1.2",
     "express": "~4.13.3",
     "morgan": "~1.6.1",
-    "serve-favicon" : "~2.3.0",
+    "serve-favicon" : "~2.4.5",
     "body-parser" : "~1.14.2",
     "multer" : "~1.1.0",
     "method-override" : "~2.3.5",
