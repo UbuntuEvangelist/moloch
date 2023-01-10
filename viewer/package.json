@@ -11,7 +11,7 @@
     "serve-favicon" : "~2.3.0",
     "body-parser" : "~1.14.2",
     "multer" : "~1.1.0",
-    "method-override" : "~2.3.5",
+    "method-override" : "~3.0.0",
     "compression" : "~1.6.0",
     "fs-ext": "~0.3.2",
     "jade": "~1.11.0",
